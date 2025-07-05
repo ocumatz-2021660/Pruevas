@@ -149,4 +149,4 @@ create table DetalleFactura (
     constraint FK_DetalleFactura_Factura foreign key (codigoFactura)
 		references Factura(codigoFactura)
 );
--- Funciono al uwuaña uwu
+-- Funciono al uwu aña uwu
